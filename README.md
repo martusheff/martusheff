@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Andronick Martusheff
-- 🌱 I’m a senior at Arizona State University working toward a Bachelor's degree in Software Engineering.
+- 👋🏼 Hey! I'm Andron!
+- 🌵🏜 I’m a senior at Arizona State University majoring in Software Engineering.
+- ☕️💚 I work for Starbucks as a barista & tech intern!
 
 <!---
 martusheff/martusheff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
