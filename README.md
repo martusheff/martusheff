@@ -1,6 +1,6 @@
 - 👋🏼 Hey! I'm Andron!
 - 🌵🏜 I’m a senior at Arizona State University majoring in Software Engineering.
-- ☕️💚 I work for Starbucks as a barista & tech intern!
+- ☕️💚 I work at Starbucks as an iOS Engineer!
 
 <!---
 martusheff/martusheff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
